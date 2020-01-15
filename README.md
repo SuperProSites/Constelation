@@ -1,4 +1,6 @@
 # Constelation
 Constelation web desing
 
-Fork the project to start contributing
+Fork the project to start contributing.
+
+Read instructions before you start
